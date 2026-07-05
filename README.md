@@ -1,16 +1,63 @@
-# React + Vite
+# 💱 Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive Currency Converter web application built with **React** and **Tailwind CSS**. It allows users to convert currencies using live exchange rates fetched from a currency API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🌍 Convert between multiple currencies
+* 🔄 Swap currencies with a single click
+* ⚡ Live exchange rates
+* 📱 Fully responsive design
+* 🎨 Modern UI with Tailwind CSS
+* ⚛️ Built using React Hooks
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript (ES6+)
+* Tailwind CSS
+* Currency Exchange API
 
-## Expanding the Oxlint configuration
+## 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+https://currency-converter-ten-taupe-33.vercel.app/
+
+## 📂 GitHub Repository
+
+https://github.com/ahmed0-17/Currency-converter
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ahmed0-17/Currency-converter.git
+```
+
+Go to the project folder:
+
+```bash
+cd Currency-converter
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshot
+
+
+![Currency Converter](./public/app-view.png)
+
+## 👨‍💻 Author
+
+Ahmed Ali
